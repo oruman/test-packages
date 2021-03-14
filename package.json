@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oruman/test_packages.git"
+    "url": "git+https://github.com/oruman/test-packages.git"
   },
   "author": "Sergey Voronoy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oruman/test_packages/issues"
+    "url": "https://github.com/oruman/test-packages/issues"
   },
-  "homepage": "https://github.com/oruman/test_packages#readme"
+  "homepage": "https://github.com/oruman/test-packages#readme"
 }
