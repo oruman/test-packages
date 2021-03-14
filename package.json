@@ -1,5 +1,5 @@
 {
-  "name": "oruman/test-packages",
+  "name": "@oruman/test-packages",
   "version": "1.0.0",
   "description": "Test for GitHub Packages",
   "main": "index.js",
